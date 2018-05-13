@@ -1,6 +1,9 @@
 <?php
 
 class FizzBuzz {
+    function input() {
+        return 1;
+    }
 }
 
 $FizzBuzz = new FizzBuzz();
